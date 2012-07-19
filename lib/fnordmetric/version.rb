@@ -1,3 +1,3 @@
 module FnordMetric
-  VERSION = "0.7.5"
+  VERSION = "0.9.7"
 end
